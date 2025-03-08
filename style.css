@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     background-color: black;
-    font-family: monospace;
+    font-family:Oswald;
 }
 footer {
     background-color: black;
@@ -103,6 +103,7 @@ div a {
 h2 {
     text-align: left;
     padding-left: 10px;
+    color: white;
 }
 .tov2 {
     padding-left: 10px;
@@ -183,4 +184,22 @@ h2 {
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
+}
+footer {
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+.img1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.img2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer span {
+    margin-bottom: 80px;
 }
